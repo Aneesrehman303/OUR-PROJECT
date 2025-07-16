@@ -26,10 +26,10 @@ const CampusHero = () => {
         </h1>
 
         <p className="text-lg md:text-xl mb-8">
-          Discover a vibrant, inclusive, and inspiring place to learn, grow, and connect.
-          At Uneza University, campus life goes beyond the classroom—it’s where
-          futures are built, friendships are formed, and dreams take flight.
-          Join us and be part of something extraordinary.
+          Discover a vibrant, inclusive, and inspiring place to learn, grow, and
+          connect. At Uneza University, campus life goes beyond the
+          classroom—it’s where futures are built, friendships are formed, and
+          dreams take flight. Join us and be part of something extraordinary.
         </p>
 
         <motion.button
