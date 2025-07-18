@@ -8,6 +8,7 @@ import Events from '../components/Events';
 import Scholarships from '../components/Scholarships';
 import CampusHero from '../components/CampusHero';
 import Footer from '../components/Footer';
+import StatsSection from '../components/StatsSection';
 
 const Home = () => {
   return (
@@ -19,7 +20,9 @@ const Home = () => {
       <Events/>
       <Scholarships/>
       <CampusHero/>
+      <StatsSection/>
       <Footer/>
+      
     </div>
   );
 };
