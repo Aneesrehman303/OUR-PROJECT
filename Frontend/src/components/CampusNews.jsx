@@ -58,7 +58,7 @@ const CampusPage = () => {
           viewport={{ once: true }}
           variants={fadeUp}
         >
-          <h2 className="text-4xl font-serif font-semibold text-gray-900">
+          <h2 className="text-4xl  font-serif font-semibold text-gray-900">
             Campus News<span className="text-red-600">.</span>
           </h2>
           <a href="#" className="text-red-700 font-medium hover:underline flex items-center gap-1">
@@ -91,7 +91,7 @@ const CampusPage = () => {
               Innovation
             </span>
             <h3 className="text-3xl font-bold text-gray-800 leading-snug mb-4">
-              Uneza University Research Team Unveils Breakthrough Renewable Energy
+              IEES University Research Team Unveils Breakthrough Renewable Energy
             </h3>
             <p className="text-gray-600 mb-4">
               Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit...

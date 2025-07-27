@@ -56,7 +56,7 @@ const WhyIees = () => {
       >
         <img
           src={universityImage}
-          alt="Uneza University"
+          alt="IEES  University"
           className="w-full h-full object-cover rounded-lg"
         />
       </motion.div>

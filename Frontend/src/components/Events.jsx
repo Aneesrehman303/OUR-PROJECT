@@ -7,7 +7,7 @@ const events = [
   {
     id: 1,
     title: "Research & Innovation Expo",
-    location: "Uneza Convention Hall",
+    location: "IEES   Convention Hall",
     time: "09:45 AM – End",
     price: "$15.00",
     imageUrl: gik2,
@@ -15,7 +15,7 @@ const events = [
   {
     id: 2,
     title: "Research & Innovation Expo",
-    location: "Uneza Convention Hall",
+    location: "IEES   Convention Hall",
     time: "09:45 AM – End",
     price: "$15.00",
     imageUrl: gik2,
@@ -23,7 +23,7 @@ const events = [
   {
     id: 3,
     title: "Alumni Talk Series",
-    location: "Uneza Convention Hall",
+    location: "IEES   Convention Hall",
     time: "11:45 AM – End",
     price: "$25.00",
     imageUrl: gik2,
@@ -31,7 +31,7 @@ const events = [
   {
     id: 4,
     title: "Internship & Job Placement",
-    location: "Uneza Convention Hall",
+    location: "IEES   Convention Hall",
     time: "10:45 AM – End",
     price: "$10.00",
     imageUrl: gik2,
@@ -39,7 +39,7 @@ const events = [
   {
     id: 5,
     title: "Research & Innovation Expo",
-    location: "Uneza Convention Hall",
+    location: "IEES   Convention Hall",
     time: "09:45 AM – End",
     price: "$15.00",
     imageUrl: gik2,
@@ -47,7 +47,7 @@ const events = [
   {
     id: 6,
     title: "Student Talent Showcase",
-    location: "Uneza Convention Hall",
+    location: "IEES   Convention Hall",
     time: "02:00 PM – End",
     price: "$12.00",
     imageUrl: gik2,

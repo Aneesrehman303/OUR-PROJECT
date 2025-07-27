@@ -48,7 +48,7 @@ const Scholarships = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Scholarship Programs<span className="text-red-500">.</span>
+          Scholarship <span className="text-red-500">Programs.</span>
         </motion.h2>
       </div>
 
